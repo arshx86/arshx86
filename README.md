@@ -4,10 +4,10 @@ I love coding **bots & discord stuffs**, my primary language is **_csharp!_**
 
 <p align="left">
   <a href="https://github.com/arsh-3" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=arsh-3&langs_count=6&theme=dark&bg_color=0d1117&border_color=30363d" height="160px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=arshx86&langs_count=6&theme=dark&bg_color=0d1117&border_color=30363d" height="160px"/>
   </a>
   <a href="https://github.com/arsh-3" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arsh-3&show_icons=true&line_height=27&count_private=true&theme=dark&bg_color=0d1117&border_color=30363d&hide=contribs" height="160px" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshx86&show_icons=true&line_height=27&count_private=true&theme=dark&bg_color=0d1117&border_color=30363d&hide=contribs" height="160px" alt="GitHub Stats"/>
   </a>
 </p>
 
