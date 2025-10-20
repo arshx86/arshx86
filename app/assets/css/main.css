@@ -1,0 +1,20 @@
+/* nuxt ui config */
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme static {
+  --font-sans: "Satoshi", ui-sans-serif, system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-mono: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco,
+    Consolas, "Liberation Mono", "Courier New", monospace;
+  --font-display--font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  --ui-radius: 0.43rem;
+}
+
+:root {
+  --ui-bg: oklch(0.141 0.005 285.823);
+}
+
+button {
+  cursor: pointer;
+}
