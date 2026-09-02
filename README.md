@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=arshx86)
 
+[![Support on Fosteo](https://fosteo.com/badge/arsh.svg)](https://fosteo.com/@arsh)
+
 
 I rely on:
 
